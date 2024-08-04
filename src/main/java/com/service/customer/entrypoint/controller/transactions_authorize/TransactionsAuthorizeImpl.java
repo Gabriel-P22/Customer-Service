@@ -1,6 +1,6 @@
 package com.service.customer.entrypoint.controller.transactions_authorize;
 
-import com.service.customer.usecases.transactions.TransactionsValidator;
+import com.service.customer.usecase.transactions.TransactionsValidator;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

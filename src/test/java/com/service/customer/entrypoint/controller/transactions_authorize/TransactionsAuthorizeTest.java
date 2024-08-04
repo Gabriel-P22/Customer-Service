@@ -1,6 +1,6 @@
 package com.service.customer.entrypoint.controller.transactions_authorize;
 
-import com.service.customer.usecases.transactions.TransactionsValidator;
+import com.service.customer.usecase.transactions.TransactionsValidator;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;

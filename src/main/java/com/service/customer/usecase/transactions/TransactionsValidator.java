@@ -1,4 +1,4 @@
-package com.service.customer.usecases.transactions;
+package com.service.customer.usecase.transactions;
 
 import java.util.Map;
 
